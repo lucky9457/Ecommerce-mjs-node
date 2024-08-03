@@ -9,7 +9,7 @@ import { SearchProvider } from "./context/search";
 import { CartProvider } from "./context/cart";
 import "antd/dist/reset.css";
 import axios from "axios";
-axios.defaults.baseURL = 'http://localhost:8080';
+axios.defaults.baseURL = 'https://ecommercesite-6hmg.onrender.com';
 
 
 
